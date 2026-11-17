@@ -13,6 +13,11 @@ This project is a small Next.js app built for the Coy SDE Intern Assignment. The
 - Persistence across reloads using a local JSON-backed store
 - A match celebration modal when a mutual match is created
 
+## Screenshots
+  <img width="682" height="893" alt="image" src="https://github.com/user-attachments/assets/b486d5a6-c4ef-451e-95d2-61a637b78401" />
+  <img width="697" height="795" alt="image" src="https://github.com/user-attachments/assets/3b1fffe2-80bd-47b9-ab88-a67ddb1aba26" />
+
+
 ## Personal notes
 
 This was a useful exercise because it combined product thinking, UI design, and backend logic. The most important part for me was making sure the app behaved like a real discovery flow instead of just looking good. The privacy rule was especially important: unmatched likes must never be shown, and only mutual likes are exposed as a match.
